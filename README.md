@@ -1,0 +1,2 @@
+# MobileShopManagement
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f240c74d8faf4c7ab13953d0501ccf5d)](https://app.codacy.com/manual/IamJithendra/MobileShopManagement?utm_source=github.com&utm_medium=referral&utm_content=IamJithendra/MobileShopManagement&utm_campaign=Badge_Grade_Dashboard)
